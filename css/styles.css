@@ -22,7 +22,6 @@ ul {
   list-style-type: none;
 }
 
-
 .list {
   list-style: none;
 }
@@ -75,7 +74,6 @@ ul {
   color: #404bbf;
 }
 
-
 .hero {
   background-color: var(--navyblue);
 }
@@ -104,7 +102,6 @@ ul {
   background-color: var(--ocean);
 }
 
-
 .pros-list-title {
   color: var(--navyblue);
   font-size: 20px;
@@ -119,7 +116,6 @@ ul {
   letter-spacing: 0.02em;
 }
 
-
 .about {
   color: var(--navyblue);
   text-align: center;
@@ -128,7 +124,6 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-
 
 .team {
   background-color: var(--cloud);
@@ -163,7 +158,6 @@ ul {
   letter-spacing: 0.02em;
 }
 
-
 .footer {
   background-color: var(--navyblue);
 }
@@ -188,7 +182,6 @@ ul {
   letter-spacing: 0.02em;
 }
 
-
 .portfolio-item-button {
   color: var(--iris);
   text-align: center;
@@ -207,8 +200,6 @@ ul {
   color: var(--white);
   background-color: var(--ocean);
 }
-
-/*          PORTFOLIO ROWS         */
 
 .rows-list-item {
   color: var(--navyblue);
